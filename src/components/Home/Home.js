@@ -6,7 +6,7 @@ import Home2 from "./Home2";
 
 function Home() {
   return (
-    <section>
+    <section className="home-page-root">
       <Container fluid className="home-section" id="home">
         <Particle />
         <Container className="home-content">

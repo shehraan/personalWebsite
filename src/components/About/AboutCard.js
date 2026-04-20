@@ -43,8 +43,8 @@ function AboutCard() {
                   </ul>
                    <b>2023:</b> SecondWave - CEO & Co-founder
                   <ul>
-                    <li>Built a GPU optimization prototype. Got initial funding and traction traction, and learned firsthand how much speed and market timing matter. 
-                    My full reflection: <a href="https://docs.google.com/document/d/1zAxeCweo6_dUjqhX7ExKdcl17XjmbUaDpszyokqMM74/edit?usp=sharing">Learnings from Building SecondWave</a></li>
+                    <li>Built a GPU optimization prototype from an winning idea (out of 800+) at a Microsoft "hackathon," and got initial funding + traction. Learned importance of speed + timing.  
+                    Reflection: <a href="https://docs.google.com/document/d/1zAxeCweo6_dUjqhX7ExKdcl17XjmbUaDpszyokqMM74/edit?usp=sharing">Building Startup Takeaways</a></li>
                   </ul>
                 </p> 
 

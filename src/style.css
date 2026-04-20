@@ -264,10 +264,15 @@ button:focus {
   padding-top: 80px !important;
 }
 
+.home-page-root {
+  background-color: #000000;
+}
+
 .home-section {
   position: relative;
   z-index: 1;
-  background-image: var(--image-gradient), url(./Assets/home-bg.webp);
+  background-color: #000000;
+  background-image: none;
   background-position: top center;
   background-repeat: no-repeat;
   padding-bottom: 30px !important;
@@ -332,7 +337,7 @@ button:focus {
 .home-about-section {
   position: relative;
   z-index: 1;
-  background-image: var(--section-background-color);
+  background-image: none;
   background-color: #000000;
   padding-bottom: 70px !important;
   padding-top: 70px !important;
