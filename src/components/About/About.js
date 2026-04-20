@@ -4,6 +4,7 @@ import Particle from "../Particle";
 import Aboutcard from "./AboutCard";
 import laptopImg from "../../Assets/self.webp";
 import wearingHeadset from "../../Assets/meWithHeadset.webp";
+import google from "../../Assets/Google.webp";
 
 function About() {
   return (
@@ -38,6 +39,13 @@ function About() {
             />
             <img
               src={wearingHeadset}
+              alt="about"
+              className="img-fluid about-image-solid"
+              loading="lazy"
+              decoding="async"
+            />
+            <img
+              src={google}
               alt="about"
               className="img-fluid about-image-solid"
               loading="lazy"

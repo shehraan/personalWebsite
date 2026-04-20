@@ -31,21 +31,31 @@ function AboutCard() {
               <br />
 
               <section className="about-section-block">
-                <h3>How I work</h3>
+                <h3>Where I've been</h3>
                 <p>
-                  I learn fastest by building end-to-end systems under real constraints. I
-                  tend to move quickly, prototype early, and use projects to understand how
-                  systems behave in practice, especially when timing, reliability, or
-                  physical constraints matter.
-                </p>
+                    <b>2025:</b> CareCycle (YC W25) - Founding Engineer
+                  <ul>
+                    <li>Worked on voice AI workflows for Medicare teams and shipped tooling that made onboarding and campaign setup much faster.</li>
+                    </ul>   
+                   <b>2024:</b> Social Ventures Zone - Growth
+                  <ul>
+                    <li>Helped early-stage startups with outreach, PMF research, and go-to-market work to sharpen who they should sell to.</li>
+                  </ul>
+                   <b>2023:</b> SecondWave - CEO & Co-founder
+                  <ul>
+                    <li>Built a GPU optimization prototype. Got initial funding and traction traction, and learned firsthand how much speed and market timing matter. 
+                    My full reflection: <a href="https://docs.google.com/document/d/1zAxeCweo6_dUjqhX7ExKdcl17XjmbUaDpszyokqMM74/edit?usp=sharing">Learnings from Building SecondWave</a></li>
+                  </ul>
+                </p> 
+
               </section>
 
               <br />
 
               <section className="about-section-block">
-                <h3>What I’m looking for</h3>
+                <h3>Where I'm going</h3>
                 <p>
-                  I’m looking for roles where I can work on products with strong technical teams and keep growing through hard, hands-on engineering work. I’m especially interested in applied AI, communication workflows, and embedded systems. I’m most motivated by environments where I can move quickly, build end-to-end, and contribute to systems that have real-world impact.
+                  I’m currently looking for long-term roles where I can work on products with strong technical teams and keep growing through hard, hands-on engineering work. I’m especially interested in applied AI, communication workflows, and embedded systems. I’m most motivated by environments where I can move quickly, build end-to-end, and contribute to systems that have real-world impact.
                 </p>
               </section>
             </div>
